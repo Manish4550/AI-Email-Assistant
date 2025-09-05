@@ -3,7 +3,7 @@
 An AI-powered email assistant built with Spring Boot and React.
 It generates contextual email replies using Google Gemini AI, with smart subject line processing and real-time response generation.
 
-🌍 Live Demo: https://ai-email-assistant.vercel.app
+🌍 Live Demo: (https://ai-email-assistant-two.vercel.app/)
 
 📦 GitHub Repo: https://github.com/Manish4550/AI-Email-Assistant
 
