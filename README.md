@@ -71,7 +71,8 @@ AI-Email-Assistant/
 <img width="1912" height="974" alt="Screenshot 2025-09-05 180526" src="https://github.com/user-attachments/assets/266a617a-a5b8-4862-a9d2-76928493ff47" />
 
 🔹 Email Reply Generation
-<img width="1674" height="921" alt="Screenshot 2025-09-05 180542" src="https://github.com/user-attachments/assets/87b8617b-e279-46bd-ad1c-55bd22ab6a1f" />
+
+<img width="1597" height="330" alt="Screenshot 2025-09-05 180902" src="https://github.com/user-attachments/assets/85a0bd4e-6e36-42c6-93be-5e6ae5d490bd" />
 
 
 📖 Future Improvements
